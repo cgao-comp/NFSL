@@ -1,6 +1,6 @@
 # NFSL
 
-The code related to the paper below: New Localization Frameworks: User-centric Approaches to Source Localization in Real-world Propagation Cascades
+The code related to the paper below: New Localization Frameworks: User-centric Approaches to Source Localization in Real-world Propagation Scenarios
 
 ## Statement
 We have made our best effort to ensure the reproducibility of the code, subsequently ensuring a rigorous academic review and reproducibility of the manuscript.
